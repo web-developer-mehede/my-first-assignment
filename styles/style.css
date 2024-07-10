@@ -103,7 +103,7 @@
 
 }
 
-/* Web Development Section */
+/* Web Development Section styles */
 
 .web-development-section{
   width: 80%;
@@ -172,7 +172,7 @@
 
 }
 
-/* My Inspiration Section Start */
+/* My Inspiration section styles */
 .my-inspiration-container{
   width: 80%;
   margin: 0 auto;
@@ -190,5 +190,69 @@
   border: 1px solid rgba(13, 19, 33, 0.2);
   border-radius: 16px;
   padding: 30px;
+
+}
+
+/* My Current Target section styles */
+.my-target-container{
+  width: 80%;
+  margin: 100px auto;
+  
+}
+
+.my-target-container-heading{
+  text-align: center;
+  margin-bottom: 50px;
+  padding: 0 100px;
+
+}
+
+.my-target-language{
+  display: flex;
+  gap: 30px;
+  
+}
+
+.my-target-language-container1{
+  border-radius: 16px;
+  background: rgba(255, 76, 30, 0.05);
+}
+
+.my-target-language-container2{
+  border-radius: 16px;
+  background: rgba(0, 76, 232, 0.05);
+}
+
+.my-target-language-container3{
+  border-radius: 16px;
+  background: rgba(255, 223, 0, 0.05);
+}
+
+.my-target-language-content{
+  padding: 40px;
+
+}
+
+.my-target-language-title{
+  color: rgb(13, 19, 33);
+  font-size: 24px;
+  font-weight: 800;
+  margin: 20px 0;
+
+}
+
+.my-target-language-description{
+  color: rgb(13, 19, 33, 0.7);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 20px;
+
+}
+
+.my-target-language-button{
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 700;
 
 }
